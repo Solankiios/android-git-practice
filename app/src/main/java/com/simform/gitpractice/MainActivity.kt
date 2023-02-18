@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         pass = findViewById(R.id.passwordText)
         login = findViewById(R.id.loginbtn)
     }
-
+        //Login Error code commit 1
+        //Login Error code commit 2
+        //Login Error code commit 3
 }
