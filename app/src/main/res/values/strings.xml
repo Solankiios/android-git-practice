@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">git Practice</string>
+    <string name="loginbtn">Login</string>
 </resources>
